@@ -1,0 +1,1 @@
+Shutdown function was delayed 200 clock ticks purposely in order to give time to read the shutting down message.
