@@ -1,4 +1,4 @@
-In this project, I implemented a simple interactive shell that can execute commands and programs. The shell supports the following commands:
+##### In this project, I implemented a simple interactive shell that can execute commands and programs. The shell supports the following commands:
 
 **whoami**: Display your name alongside your index number.
 
